@@ -1,0 +1,5 @@
+V6.0
+Android ASMR AI
+Core: local prompt generation
+Architecture: Android/Gradle
+Next integration point: open-source video generation backend
